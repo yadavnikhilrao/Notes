@@ -1,0 +1,18 @@
+- For Creating the Environment
+
+mkvirtualenv environment_name
+
+- Installing the library
+
+pip install library_name
+
+- Set the Environment Name in Virtualenv
+
+environment_name
+
+- Re-write in consoule/terminal we need to use virtual env re-install things after some days
+
+source /home/pranik/.virtualenvs/myenv/bin/activate
+
+pip install library_name
+
